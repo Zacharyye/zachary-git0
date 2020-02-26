@@ -1,3 +1,2 @@
-readMe
-
-We are going to record some git commands here.eg add and so on.
+# zachary-git0
+Exercises for git learning.
